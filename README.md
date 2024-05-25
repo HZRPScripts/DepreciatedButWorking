@@ -1,1 +1,2 @@
-# AHK & LUA Scripts for HZRP
+## DepreciatedButWorking 
+## AHK & LUA Scripts for HZRP
