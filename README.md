@@ -1,1 +1,1 @@
-####AHK & LUA Scripts for HZRP
+# AHK & LUA Scripts for HZRP
